@@ -17,13 +17,13 @@ do.modules=1
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
+device.name1=cepheus
 device.name2=toro
 device.name3=toroplus
 device.name4=tuna
-supported.versions=6.0 - 7.1.2
-supported.patchlevels=2019-07 -
-supported.vendorpatchlevels=2013-07
+supported.versions=16
+supported.patchlevels=2026-07 -
+supported.vendorpatchlevels=2026-07
 
 BLOCK=/dev/block/platform/omap/omap_hsmmc.0/by-name/boot;
 IS_SLOT_DEVICE=0;
