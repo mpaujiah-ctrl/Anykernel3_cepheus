@@ -4,7 +4,7 @@
 
 ### AnyKernel setup
 properties() { '
-kernel.string=Kernel for Xiaomi Cepheus
+kernel.string= Kernel for Xiaomi Cepheus
 do.devicecheck=1
 do.modules=0
 do.systemless=0
